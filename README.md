@@ -65,9 +65,10 @@ Evaluation was conducted using a rigorous 4-point corner protocol, comparing the
 </div>
 
 #### Error Distribution
+![Comparison Plot](results/results.png)
+*Figure 2: Research comparison run results of the two modes
 ![Comparison Plot](results/comparison.png)
-*Figure 2: Euclidean error tracking over temporal samples during the 4-point evaluation protocol.*
-
+*Figure 3: Euclidean error tracking over temporal samples during the 4-point evaluation protocol.*
 ---
 
 ## ⚖️ Limitations & Ethics
