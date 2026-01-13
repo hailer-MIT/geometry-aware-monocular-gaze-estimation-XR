@@ -1,7 +1,7 @@
 # Geometry-Aware Monocular Gaze Estimation for XR
 
 <div align="center">
-  <video src="[demo.mp4](https://www.youtube.com/watch?v=cK2mrPCiO6U)" width="100%" autoplay loop muted></video>
+  <video src="[demo.mp4](https://www.youtube.com/watch?v=cK2mrPCiO6U) " width="100%" autoplay loop muted></video>
   <p><em>Real-time demonstration of the Geometry-Aware Gaze Estimation Pipeline</em></p>
   <a href="demo.mp4"> Project Trailer - Click to Watch </a>
   <p><em>Click the banner above to watch the Research Demonstration video (demo.mp4)</em></p>
