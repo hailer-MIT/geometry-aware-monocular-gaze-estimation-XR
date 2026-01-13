@@ -3,9 +3,7 @@
 <div align="center">
   <video src="demo.mp4" width="100%" autoplay loop muted></video>
   <p><em>Real-time demonstration of the Geometry-Aware Gaze Estimation Pipeline</em></p>
-  <a href="demo.mp4">
-    <img src="results/project_thumbnail.png" width="100%" alt="Project Trailer - Click to Watch">
-  </a>
+  <a href="demo.mp4"> Project Trailer - Click to Watch </a>
   <p><em>Click the banner above to watch the Research Demonstration video (demo.mp4)</em></p>
 </div>
 
@@ -65,10 +63,8 @@ Evaluation was conducted using a rigorous 4-point corner protocol, comparing the
 </div>
 
 #### Error Distribution
-![Comparison Plot](results/results.png)
-*Figure 2: Research comparison run results of the two modes
 ![Comparison Plot](results/comparison.png)
-*Figure 3: Euclidean error tracking over temporal samples during the 4-point evaluation protocol.*
+*Figure 2: Euclidean error tracking over temporal samples during the 4-point evaluation protocol.*
 ---
 
 ## ⚖️ Limitations & Ethics
