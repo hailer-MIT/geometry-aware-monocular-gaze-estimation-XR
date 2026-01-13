@@ -1,11 +1,12 @@
 # Geometry-Aware Monocular Gaze Estimation for XR
 
 <div align="center">
-  <video src="[demo.mp4](https://www.youtube.com/watch?v=cK2mrPCiO6U) " width="100%" autoplay loop muted></video>
+  <!-- <video src="https://www.youtube.com/watch?v=cK2mrPCiO6U" width="100%" autoplay loop muted></video> -->
   <p><em>Real-time demonstration of the Geometry-Aware Gaze Estimation Pipeline</em></p>
-  <a href="[demo.mp4](https://www.youtube.com/watch?v=cK2mrPCiO6U)"> Project Trailer - Click to Watch </a>
-  <p><em>Click the banner above to watch the Research Demonstration video (demo.mp4)</em></p>
+  <a href="https://www.youtube.com/watch?v=cK2mrPCiO6U"> Project Trailer - Click to Watch </a>
+  <p><em>Click the link above to watch the Research Demonstration video (demo.mp4)</em></p>
 </div>
+
 
 ## 📌 Motivation
 In the evolution of Extended Reality (XR), robust and responsive eye tracking is a fundamental requirement for immersive interactions, foveated rendering, and social presence. While specialized hardware solutions exist, they often introduce significant cost and hardware complexity. This research shifts the focus towards **monocular webcam-based gaze estimation**, investigating how classical imaging geometry can be leveraged to overcome the inherent instability of 2D image-based regression when subjected to 3D head movements.
