@@ -3,6 +3,10 @@
 <div align="center">
   <video src="demo.mp4" width="100%" autoplay loop muted></video>
   <p><em>Real-time demonstration of the Geometry-Aware Gaze Estimation Pipeline</em></p>
+  <a href="demo.mp4">
+    <img src="results/project_thumbnail.png" width="100%" alt="Project Trailer - Click to Watch">
+  </a>
+  <p><em>Click the banner above to watch the Research Demonstration video (demo.mp4)</em></p>
 </div>
 
 ## 📌 Motivation
