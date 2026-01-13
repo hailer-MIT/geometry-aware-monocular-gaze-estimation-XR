@@ -78,6 +78,24 @@ Evaluation was conducted using a rigorous 4-point corner protocol, comparing the
 
 ---
 
+
+## 📂 Project Structure
+```tree
+.
+├── results/               
+│   ├── screenshots/       # Saved screenshots from eval & side-by-side mode
+│   ├── comparison.png     # Euclidean error comparison plots
+├── src/                   
+│   ├── camera_geometry.py # Classical imaging & normalization logic
+│   ├── evaluation.py      # 4-point protocol & metric calculation
+│   ├── face_eye_detection.py # MediaPipe landmark integration
+│   ├── failure_logger.py  # Condition monitoring (light, pose, visibility)
+│   ├── main.py            # Main application entry point
+│   └── visualization.py   # Side-by-side and HUD rendering
+├── demo.mp4               # 30s demonstration video
+└── requirements.txt       # Environment dependencies
+```
+
 ## 💻 Getting Started
 
 ### Installation
